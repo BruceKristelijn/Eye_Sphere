@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Unity EyeSphere
 
 Hi! This small project is basically the URP example data. More about the shader can be read [here](https://brucekristelijn.nl/#/blog/unity3d-planet-eye-shader).
 
